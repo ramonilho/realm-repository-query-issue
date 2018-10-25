@@ -7,7 +7,20 @@
 		<key>RealmPredicateTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F61AAF6B2180EE460096D640</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F61AAF842180EEE60096D640</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
